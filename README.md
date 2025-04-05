@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I'm Theo.
+
+- 👨🏻‍💻 Full stack developer since 2019  
+- 🚀 I code almost every day, even when I'm not supposed to.
+- 🔧 Favorite tools in the toolbox? React, Next.js, Node, Express, TypeScript, and SQL
+
 
 <!--
 **theo-sim-dev/theo-sim-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
