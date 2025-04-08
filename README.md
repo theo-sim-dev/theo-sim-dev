@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 Full stack developer since 2019  
 - 🚀 I code almost every day, even when I'm not supposed to.
-- 🔧 Favorite tools in the toolbox? React, Next.js, Node, Express, TypeScript, and SQL
+- 🔧 Favorite tools in the toolbox? React, Next.js, Node, Express, Sequelize, TypeScript, and SQL
 
 
 <!--
