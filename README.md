@@ -1,7 +1,6 @@
-## Hi there 👋, I'm Theo.
+## 👋
 
 - 👨🏻‍💻 Full stack developer since 2019  
-- 🚀 Yeah, I code almost every day
 - 🔧 Favorite tools in the toolbox? React, Next.js, Material UI, Node, Express, Sequelize, TypeScript, and SQL
 
 
