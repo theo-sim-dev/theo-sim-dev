@@ -7,5 +7,5 @@
 
 ### Check out my npm packages
 
-- 🚨 Need easy notifications in your React app? [**mui-alert-provider**](https://www.npmjs.com/package/mui-alert-provider) helps you integrate Material UI alerts in minutes. Trigger alerts from anywhere in your component tree  
+- 🚨 Need alerts/notifications in your React app? [**mui-alert-provider**](https://www.npmjs.com/package/mui-alert-provider) helps you integrate Material UI alerts in minutes. Trigger alerts from anywhere in your component tree  
 - 🌍 Want to detect a user's country for free? [**use-country**](https://www.npmjs.com/package/use-country) is a simple hook to get the user's location without hassle.
