@@ -1,9 +1,8 @@
 ## Hi there👋 I'm Theo
 
-- 👨🏻‍💻 Full stack developer since 2019
-- 🔍 Fun fact: I aim to reduce the number of props during code reviews😅  
-- 🧰 Favorite tools: React, React Hooks, Redux Toolkit, Axios, Material UI, Node.js, Express, Sequelize, TypeScript, SQL  
-- 📫 Reach me at: theo.sim.dev@gmail.com
+- Full stack developer since 2019. Fun fact: I aim to reduce the number of props during code reviews!
+- Favorite tools: React, React Hooks, Redux Toolkit, Axios, Material UI, Node.js, Express, Sequelize, TypeScript, SQL and Relational Databases
+- Reach me at: theo.sim.dev@gmail.com
 
 ### Check out my npm packages
 
