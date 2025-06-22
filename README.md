@@ -12,7 +12,7 @@
 - 🚨 Need alerts and notifications in your React app? [**mui-alert-provider**](https://www.npmjs.com/package/mui-alert-provider) helps you integrate Material UI alerts in minutes. Trigger alerts from anywhere in your component tree  
 - 🌍 Need to detect a user's country for free? [**use-country**](https://www.npmjs.com/package/use-country) provides a simple React hook to get the user's location without hassle.
 
-### Contribution
+### Open-source contributions
 
 - Contributor to [Axios](https://github.com/axios/axios) — enhanced HTTP stream error handling([#6936](https://github.com/axios/axios/pull/6936)), improved `husky` setup([#6944](https://github.com/axios/axios/pull/6944)), and more.
 - Passionate about the React and Material UI ecosystem; regularly contribute to related tools and libraries.
