@@ -3,7 +3,7 @@
  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 - Full stack developer since 2019.
-- Fun fact: I triple-check every boolean flag in code reviews — if it's not essential, it's probably future tech debt in disguise!
+- Fun fact: I triple-check every boolean flag in my code — if it's not essential, it's probably future tech debt in disguise!
 - Favorite tools: React, React Hooks, Redux and Redux Toolkit, Axios, Material UI, Node.js, Express, Sequelize (ORM), Relational Databases and SQL.
 - Reach me at: theo.sim.dev@gmail.com
 
